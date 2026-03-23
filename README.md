@@ -7,6 +7,8 @@ https://www.geogebra.org/3d/auwcx8x6
 
 https://www.youtube.com/watch?v=EXEZUVuL5mo
 
+![Demo](foucault3d.jpeg)
+
 ## Description
 - Built an interactive model to visualize Earth's rotation effect
 - Translated abstract physics concepts into intuitive visualization
