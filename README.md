@@ -1,5 +1,3 @@
-# foucault-pendulum-3d
-
 # Foucault Pendulum 3D Visualization
 
 This project demonstrates the precession of a Foucault pendulum using an interactive 3D model.
